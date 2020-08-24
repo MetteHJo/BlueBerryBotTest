@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+##BlueBerryBot
 
-You can use the [editor on GitHub](https://github.com/MetteHJo/BlueBerryBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+>"I have never tried that before, so I should definitely be able to do it"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>>>>>>>>>>>>>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can call me Pippi Longstocking – Or Mette H
 
-### Markdown
+## Me - Senior, junior and baby 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I spent 10 years leading Supply Chains forward in production companies such as Husqvarna and Kemetyl. I am senior both in purchasing and management. I have been super user for several ERP systems and successfully managed different IT project, without having an IT background; making me junior in IT project management. I am taking my first baby steps in programming and I love it. 
 
-```markdown
-Syntax highlighted code block
+For me Supply Chain and Programming are similar in the way that they both focus on optimizing and streamlining business's activities to maximize customer value.
+All my former managers describe me as driven and result oriented as well as sociable, energetic and positive. Furthermore, one explains that I have a unique ability to think outside the box and see solutions for complex problems.
 
-# Header 1
-## Header 2
-### Header 3
+In this class, I was first motivated by the practical learning process and the width of areas this course covers. But, when my 13 year old son said “you will never be able to build that”, my main motivator changed into proving a teenager wrong. I mean, showing a teenager that anyone can do anything they set their mind to is highly motivating.
 
-- Bulleted
-- List
+The reason for me going back to school and taking a second Master, is my desire to create an impact unicorn. A small step for BlueBerryBot will result in a giant leap for mankind. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MetteHJo/BlueBerryBot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
